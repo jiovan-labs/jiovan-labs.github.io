@@ -1,0 +1,1 @@
+(self["webpackChunkjiovan_labs_github_io"]=self["webpackChunkjiovan_labs_github_io"]||[]).push([[336],{2231:function(i,n,u){"use strict";u.d(n,{m:function(){return a.m}});var a=u(9684);u(2255)}}]);
