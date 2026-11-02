@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2025 Unikue Ltd. All rights reserved.
+ * Copyright (c) 2025 Jiovan Ltd. All rights reserved.
  *
  * Licensed under the MIT License.
  *
@@ -29,7 +29,7 @@ import globalSettings from './globalSettings';
 export default {
     base: `${globalSettings.context?.root}/`,
     publicPath: `${globalSettings.context?.root}/`,
-    title: 'Unikue',
+    title: 'Jiovan',
     logo: `${globalSettings.context?.assets}/ico/logo-icon.svg`,
     locales: [
         ['en-US', 'English'],
@@ -39,7 +39,7 @@ export default {
     metas: [
         {
             name: 'keywords',
-            content: 'Unikue, 攸科, 攸科网络, 攸科科技',
+            content: 'Jiovan, 攸科, 攸科网络, 攸科科技',
         }
     ],
     favicon: `${globalSettings.context?.root}/favicon.ico`,
@@ -58,21 +58,21 @@ export default {
             null,
             {
                 title: 'GitHub',
-                path: `https://github.com/unikueltd`,
+                path: `https://github.com/jiovan-labs`,
             }
         ],
         'zh-CN': [
             null,
             {
                 title: 'GitHub',
-                path: `https://github.com/unikueltd`,
+                path: `https://github.com/jiovan-labs`,
             }
         ],
         'zh-TW': [
             null,
             {
                 title: 'GitHub',
-                path: `https://github.com/unikueltd`,
+                path: `https://github.com/jiovan-labs`,
             }
         ]
     },

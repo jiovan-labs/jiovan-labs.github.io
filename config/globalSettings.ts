@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2025 Unikue Ltd. All rights reserved.
+ * Copyright (c) 2025 Jiovan Ltd. All rights reserved.
  *
  * Licensed under the MIT License.
  *
@@ -25,8 +25,8 @@ const ROOT_CONTEXT: string = '';
  */
 export default {
     organ: {
-        organTrademark: 'Unikue',
-        organUrl: 'https://unikue.cn',
+        organTrademark: 'Jiovan',
+        organUrl: 'https://joivan.com',
     },
 
     context: {

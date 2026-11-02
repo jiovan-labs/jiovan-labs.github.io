@@ -1,11 +1,11 @@
-# Unikue
+# Jiovan
 
-🏅 Github Site for Unikue Ltd. ❤️
+🏅 Github Site for Jiovan Ltd. ❤️
 
 ## Copyright
 
-Beijing Unikue Network Technology Ltd.
+Beijing Jiovan Technology Ltd.
 
 ## Website
 
-- Unikue: [https://unikue.cn](https://unikue.cn)
+- Jiovan: [https://joivan.com](https://joivan.com)

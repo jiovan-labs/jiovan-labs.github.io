@@ -1,24 +1,26 @@
 {
-    "name": "unikueltd.github.io",
-    "version": "1.1.0",
-    "title": "Unikue Official Site",
+    "name": "jiovan-labs.github.io",
+    "version": "2.0.0",
+    "title": "Jiovan Official Site",
     "description": "Awesome Open-Source Software Provider",
-    "homepage": "https://unikueltd.github.io",
-    "organization": "Unikue Ltd",
+    "homepage": "https://jiovan-labs.github.io",
+    "organization": "Jiovan Ltd",
     "private": true,
     "license": "MIT",
     "keywords": [
-        "unikue",
-        "unikue-official-site"
+        "jiovan",
+        "jiovan-official-site"
     ],
     "files": [
         "dist"
     ],
     "scripts": {
+        "approve": "npm approve-scripts --allow-scripts-pending",
         "start": "NODE_OPTIONS=--openssl-legacy-provider dumi dev",
         "build:watch": "father dev",
         "docs:build": "del-cli ./docs-dist && NODE_OPTIONS=--openssl-legacy-provider dumi build",
-        "docs:publish": "gh-pages -d ./docs-dist"
+        "docs:publish": "gh-pages -d ./docs-dist",
+        "upgrade": "npx npm-check-updates --target semver -u"
     },
     "devDependencies": {
         "del-cli": "^7.0.0",
@@ -27,26 +29,26 @@
         "gh-pages": "^6.3.0"
     },
     "peerDependencies": {
-        "typescript": ">=4"
+        "typescript": ">=4.0.0"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/unikueltd/unikueltd.github.io.git"
+        "url": "git+https://github.com/jiovan-labs/jiovan-labs.github.io.git"
     },
     "bugs": {
-        "url": "https://github.com/unikueltd/unikueltd.github.io/issues"
+        "url": "https://github.com/jiovan-labs/jiovan-labs.github.io/issues"
     },
     "collective": {
-        "url": "https://opencollective.com/unikue-awesome"
+        "url": "https://opencollective.com/joivan-labs"
     },
     "funding": [
         {
             "type": "opencollective",
-            "url": "https://opencollective.com/unikue-awesome"
+            "url": "https://opencollective.com/joivan-labs"
         },
         {
             "type": "individual",
-            "url": "https://unikue.cn/donation"
+            "url": "https://joivan.com/donation"
         }
     ],
     "browserslist": {
@@ -62,9 +64,8 @@
         ]
     },
     "author": {
-        "name": "Unikue Ltd",
-        "email": "unikue@yeah.net",
-        "url": "https://unikue.cn"
+        "name": "Jiovan Ltd",
+        "url": "https://joivan.com"
     },
     "contributors": [
         {
@@ -72,5 +73,11 @@
             "email": "davidhsing@163.com",
             "url": "https://github.com/davidhsing"
         }
-    ]
+    ],
+    "allowScripts": {
+        "core-js": true,
+        "core-js-pure": true,
+        "esbuild": true,
+        "fsevents": true
+    }
 }

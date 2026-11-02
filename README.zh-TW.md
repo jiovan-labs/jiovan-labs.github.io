@@ -1,4 +1,4 @@
-# Unikue
+# Jiovan
 
 🏅 攸科的官方網站 ❤️
 
@@ -8,4 +8,4 @@
 
 ## 網站
 
-- Unikue: [https://unikue.cn](https://unikue.cn)
+- Jiovan: [https://joivan.com](https://joivan.com)

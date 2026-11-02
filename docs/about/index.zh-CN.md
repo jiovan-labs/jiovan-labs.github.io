@@ -15,5 +15,5 @@ nav:
 
 您可以通过以下方式访问我们：
 
-- Unikue: [https://unikue.cn](https://unikue.cn)
-- GitHub: [https://github.com/unikueltd](https://github.com/unikueltd)
+- Jiovan: [https://joivan.com](https://joivan.com)
+- GitHub: [https://github.com/jiovan-labs](https://github.com/jiovan)

@@ -2,7 +2,7 @@
 title: 首页
 order: 1
 hero:
-  title: Unikue 攸科
+  title: Jiovan 攸科
   desc: 🏅 优秀的开源软件提供商 ❤️
   actions:
     - text: 关于我们
@@ -23,4 +23,4 @@ footer: Opensource MIT Licensed<br/>版权所有 © 2025 北京攸科网络科�
 
 ## 反馈
 
-请访问 [GitHub](https://github.com/unikueltd/unikueltd.github.io) 反馈问题或参与讨论。
+请访问 [GitHub](https://github.com/jiovan-labs/jiovan-labs.github.io) 反馈问题或参与讨论。
