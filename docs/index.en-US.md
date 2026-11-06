@@ -17,7 +17,7 @@ features:
   - icon: ./assets/img/home/green-leaf-1.png
     title: Theme support
     desc: 🎨 Theme capabilities, for customizing complete theme components, are up to you
-footer: Opensource MIT Licensed<br/>Copyright © 2025 Jiovan Ltd. All rights reserved
+footer: Opensource MIT Licensed<br/>Copyright © 2026 Jiovan Ltd. All rights reserved
 ---
 
 ## Feedback

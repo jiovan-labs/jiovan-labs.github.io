@@ -9,7 +9,7 @@ nav:
 
 ## Opensource
 
-Here are some opensource repos of Jiovan Ltd.
+Here are some opensource repos of us.
 
   - **ant-buddy-pro**
     - GitHub: [https://github.com/jiovan-labs/ant-buddy-pro](https://github.com/jiovan-labs/ant-buddy-pro)

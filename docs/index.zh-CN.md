@@ -2,7 +2,7 @@
 title: 首页
 order: 1
 hero:
-  title: Jiovan 攸科
+  title: Jiovan 玖漫
   desc: 🏅 优秀的开源软件提供商 ❤️
   actions:
     - text: 关于我们
@@ -17,7 +17,7 @@ features:
   - icon: ./assets/img/home/green-leaf-1.png
     title: 主题支持
     desc: 🎨 支持定制主题样式，更多样式，随心控制
-footer: Opensource MIT Licensed<br/>版权所有 © 2025 北京攸科网络科技有限公司
+footer: Opensource MIT Licensed<br/>版权所有 © 2026 北京玖漫科技有限公司
 ---
 
 

@@ -5,7 +5,7 @@
 [![NPM downloads](http://img.shields.io/npm/dm/@jiovan-labs/official-site.svg?style=flat)](https://npmjs.org/package/@jiovan-labs/official-site)
 [![dumi](https://img.shields.io/badge/docs%20by-dumi-blue?style=flat-square)](https://github.com/umijs/dumi)
 
-🏅 玖漫的官方网站 ❤️
+🏅 玖漫的 GitHub 官方网站 ❤️
 
 ## 版权
 

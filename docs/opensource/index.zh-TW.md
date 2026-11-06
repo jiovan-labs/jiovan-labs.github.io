@@ -9,7 +9,7 @@ nav:
 
 ## 開源項目
 
-以下是攸科的一些開源項目：
+以下是我們的一些開源項目：
 
   - **ant-buddy-pro**
     - GitHub: [https://github.com/jiovan-labs/ant-buddy-pro](https://github.com/jiovan-labs/ant-buddy-pro)
